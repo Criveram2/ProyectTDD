@@ -9,7 +9,6 @@ public final class Figures {
 		return generateSquare(3);
 	}
 
-
 	 /**
 	     * Generate a Square.
 	     *
